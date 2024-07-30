@@ -3,11 +3,11 @@
 
 ## Overview
 
-**This Python script scrapes the details of the first 6 projects listed under the "Registered Projects" heading on the [Haryana RERA Public Dashboard](https://hprera.nic.in/PublicDashboard). It extracts the following fields from each project's detail page:
+**This Python script scrapes the details of the first 6 projects listed under the "Registered Projects" heading on the [Haryana RERA Public Dashboard](https://hprera.nic.in/PublicDashboard). It extracts the following fields from each project's detail page:**
 - GSTIN No
 - PAN No
 - Name
-- Permanent Address**
+- Permanent Address
 
 ## Prerequisites
 
