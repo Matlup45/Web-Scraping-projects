@@ -1,4 +1,3 @@
-# Web-Scraping-projects
 
 # Project Scraper for Registered Projects
 
@@ -39,8 +38,8 @@ For Debian-based systems (e.g., Ubuntu), use the following commands:
    cp /usr/lib/chromium-browser/chromedriver /usr/bin
 ```
 
-**Code Explanation
-**
+**Code Explanation**
+
 The script uses selenium to automate the browser and scrape data.
 
 It waits for elements to be visible and ensures that the loading spinner disappears before extracting data.
